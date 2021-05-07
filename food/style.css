@@ -1,0 +1,18 @@
+.colors{
+    background: #44988D;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.top{
+    background:  #75A9A2;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+.other{
+    font-size: 50px;
+    color: white;
+    background-color: #44988D;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
